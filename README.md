@@ -1,6 +1,6 @@
-<h1 align="center"><a href=""><img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/></a> MSSQL</h1>
+<h1 name="content" align="center"><a href=""><img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/></a> MSSQL</h1>
 
-<p name="content" align="center">
+<p align="center">
   <a href="#-lab1"><img alt="lab1" src="https://img.shields.io/badge/Lab1-blue"></a> 
   <a href="#-lab2"><img alt="lab2" src="https://img.shields.io/badge/Lab2-red"></a>
   <a href="#-lab3"><img alt="lab3" src="https://img.shields.io/badge/Lab3-green"></a>
@@ -50,7 +50,8 @@ EXEC GetTestData;
 | msdb | dbo | syspolicy\_execution\_internal | 432720594 |
 | ...  |
 
-# <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab2 [Назад](#content) 
+# <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab2
+[Назад](#content) 
 <h3 align="center"> 
   <a href="#client"></a>
   2 Создать процедуру, которая принимает в качестве параметров имя таблицы и имена двух полей этой таблице и добавляет содержимое первого поля к содержимому второго. 
