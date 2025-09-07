@@ -71,4 +71,4 @@ SELECT * FROM SampleTable;
 | 3 | Goodbye | EveryoneGoodbye |
 | 4 | null | null |
 
-![image](https://github.com/user-attachments/assets/376a811d-f48d-4afd-acea-6f48c3529c5f)
+![image](/sources/yargu.png)
